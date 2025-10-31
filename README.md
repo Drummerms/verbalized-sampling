@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="#quickstart">Quickstart</a> | 
+  <a href="#installation-and-usage">Install</a> | 
   <a href="#colab-notebooks">Colab</a> | 
   <a href="#reproducing-paper-results">Reproduce Results</a> | 
   <a href="https://arxiv.org/abs/2510.01171">Paper</a> | 
